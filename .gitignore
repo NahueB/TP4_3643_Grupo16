@@ -1,0 +1,8 @@
+.venv/
+venv/
+cisco/
+.env
+.ticket
+__pycache__/
+*.pyc
+inventario_*.csv
